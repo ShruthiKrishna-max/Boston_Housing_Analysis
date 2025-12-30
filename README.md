@@ -39,8 +39,9 @@ The dataset reveals meaningful patterns:
 
 These insights can guide further analysis and predictive modeling, such as regression for price prediction.
 
-## How to Run
-
-1. Open the notebook in [Google Colab](YOUR_COLAB_NOTEBOOK_LINK_HERE)
+   ### How to Run
+1. Open the notebook in Google Colab
 2. Run all cells from top to bottom
 3. Explore visualizations and insights
+[Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/PEP_Basic_ML_Project/blob/main/Analysis_of_Boston_Housing.ipynb)
+
