@@ -43,5 +43,6 @@ These insights can guide further analysis and predictive modeling, such as regre
 1. Open the notebook in Google Colab
 2. Run all cells from top to bottom
 3. Explore visualizations and insights
-[Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/PEP_Basic_ML_Project/blob/main/Analysis_of_Boston_Housing.ipynb)
+[Open in Colab](https://colab.research.google.com/github/ShruthiKrishna-max/Boston_Housing_Analysis/blob/main/Analysis_of_Boston_Housing.ipynb)
+
 
