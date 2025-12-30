@@ -41,6 +41,6 @@ These insights can guide further analysis and predictive modeling, such as regre
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shruthiKrishna-max/boston-housing-analysis.git
+1. Open the notebook in [Google Colab](YOUR_COLAB_NOTEBOOK_LINK_HERE)
+2. Run all cells from top to bottom
+3. Explore visualizations and insights
